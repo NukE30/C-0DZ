@@ -1,2 +1,2 @@
-# C-0DZ
-0. Zadaća iz C#
+# JMBAG
+0036494496
